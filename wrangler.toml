@@ -1,0 +1,8 @@
+name = "hermes-openai-bot"
+type = "webpack"
+
+account_id = "f365ec5471a23fbdbbb4a23cc5f94bd5"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2023-02-03"
