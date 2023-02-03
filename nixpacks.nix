@@ -8,6 +8,6 @@
   '';
 
   start = ''
-    python -m src.main.py
+   /opt/venv/bin/python /src/main.py
   '';
 }
