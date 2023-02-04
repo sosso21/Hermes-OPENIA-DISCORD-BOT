@@ -1,10 +1,8 @@
 
 {
-  setup = "python38, gcc";
+  setup = "python38";
 
   install = ''
-    python -m venv /opt/venv
-    . /opt/venv/bin/activate
     pip install -r requirements.txt
   '';
 
